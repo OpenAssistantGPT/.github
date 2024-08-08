@@ -11,3 +11,11 @@ As our journey continue we now provide an enterprise solution containing all of 
 
 If you are new here we highly recommend to look at our <a href="https://www.openassistantgpt.io/">main platform</a> and then give a look at our <a href="https://sdk.openassistantgpt.io/">SDK</a>.
 
+## Updates
+
+Follow [@oassistantgpt](https://x.com/oassistantgpt) on X and for project updates.
+
+
+## Founders
+
+- [Marc-Olivier Bouchard](https://github.com/marcolivierbouch)
